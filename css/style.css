@@ -16,6 +16,10 @@ nav li {
     display: inline-block;
 }
 
+nav a:hover {
+    color: red;
+}
+
 h1 {
     color: red;
     text-align: center
