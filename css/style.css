@@ -10,10 +10,12 @@ nav ul {
     text-align: center;
     width: 100%;
     padding:10px;
+    border: 1px dotted black;
 }
 
 nav li {
     display: inline-block;
+    padding-left: 15px;
 }
 
 nav a:hover {
@@ -21,11 +23,15 @@ nav a:hover {
 }
 
 h1 {
-    color: red;
+    color: gray;
     text-align: center;
+    text-decoration: underline;
+    width:50%;
+    margin-left: 25%;
+    background-color: lightgray
 }
 
 p {
-    color: blue;
+    color: gray;
     text-align: center;
 }
